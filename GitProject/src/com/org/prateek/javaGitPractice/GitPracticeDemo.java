@@ -9,6 +9,10 @@ public class GitPracticeDemo {
 
 		System.out.println("added new line on git command line");
 //>>>>>>> branch 'master' of https://github.com/surabhikisan/git-githubjava.git
+		
+		System.out.println("Last new line on git command line");
+		System.out.println("1 new line on git command line");
+		System.out.println("2 new line on git command line");
 	}
 
 }
