@@ -13,6 +13,10 @@ public class GitPracticeDemo {
 		System.out.println("Last new line on git command line");
 		System.out.println("1 new line on git command line");
 		System.out.println("2 new line on git command line");
+		
+		System.out.println("Last new line on git command line");
+		System.out.println("1 new line on git command line");
+System.out.println("2 new line on git command line");
 	}
 
 }
